@@ -23,11 +23,10 @@ email: htenberge+ropieee@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   RoPieee is an image for the Raspberry Pi devices (3, 4 and 5 family)
   that is capable of running several audio streaming platforms. 
-  RoPieee can be seen as an appliance, and as such requires no computer knowledge whatsoever.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  RoPieee/RoPieee
+github_username:  RoPieee%2FRoPieee
 
 # Build settings
 theme: minima
