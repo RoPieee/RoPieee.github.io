@@ -1,12 +1,9 @@
 <ul class="social-media-list">
-{%- for entry in site.minima.social_links -%}
   <li>
-    <a rel="me" href="https://nos.nl" target="_blank" title="{{ entry.title }}">
-      <span class="grey fa-brands fa-{{ entry.icon }} fa-lg"></span>
+    <a rel="me" href="https://nos.nl" target="_blank" title="RoPieee">
+      <span class="grey fa-brands fa-github fa-lg"></span>
     </a>
   </li>
-{%- endfor -%}
-{% unless site.minima.hide_site_feed_link %}
   <li>
     <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}" target="_blank" title="Subscribe to syndication feed">
       <svg class="svg-icon grey" viewbox="0 0 16 16">
@@ -18,5 +15,4 @@
       </svg>
     </a>
   </li>
-{%- endunless %}
 </ul>
