@@ -4,3 +4,4 @@
 
 layout: home
 ---
+An easy-to-use Raspberry Pi image for network audio streaming solutions
