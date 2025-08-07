@@ -4,6 +4,9 @@
 
 layout: home
 ---
-{% include image.html url="/assets/images/logo.png" description="RoPieee's Beautiful Logo" width="30%" %}
 
-An easy-to-use Raspberry Pi image for network audio streaming solutions.
+<div align="center">
+{% include image.html url="/assets/images/logo.png" description="RoPieee's Beautiful Logo" width="30%" %}
+</div>
+
+<p align="center">An easy-to-use Raspberry Pi image for network audio streaming solutions.</p>
