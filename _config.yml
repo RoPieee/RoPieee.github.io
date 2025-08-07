@@ -23,7 +23,7 @@ author: Harry ten Berge
 email: htenberge+ropieee@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   RoPieee is an image for the Raspberry Pi devices (3, 4 and 5 family)
-  that is capable of running several audio streaming platforms. 
+  that is capable of running several audio streaming solutions. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
