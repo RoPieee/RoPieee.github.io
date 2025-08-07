@@ -4,3 +4,13 @@ title:  "Release 2025.04"
 date:   2025-04-18 08:45:31 +0200
 categories: stable release
 ---
+
+Hi all,
+
+It took longer than anticipated, but here’s a new RoPieee release!
+
+This one is largely focused on supporting the new ‘Display 2’ official Raspberry Pi touchscreen, but some nice other goodies are also included.
+
+As usual you can find the complete changelog and downloads over [here](https://github.com/RoPieee/RoPieee/blob/main/docs/CHANGELOG.md)
+
+Enjoy!
