@@ -5,8 +5,9 @@ date:   2025-07-08 18:16:01 +0200
 categories: stable release
 ---
 
-Unfortunately there slipped a regression in 2025.06, so this release is here to fix that.
-With 2025.06 we got support for more than 1 USB DAC as possible output device for services like Spotify, but unfortunately that caused a failure on units equipped with a HAT that has it's own mixer.
+Unfortunately there slipped a regression in 2025.06 :grimacing:, so this release is here to fix that.
+
+With 2025.06 we got support for more than 1 USB DAC as possible output device for services like Spotify, but unfortunately that caused a failure on units equipped with a HAT that has its own mixer.
 
 That's now sorted out, and while fixing that we sneaked in a few other goodies:
 
