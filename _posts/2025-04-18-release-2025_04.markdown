@@ -1,1 +1,6 @@
-
+---
+layout: post
+title:  "Release 2025.04"
+date:   2025-04-18 08:45:31 +0200
+categories: stable release
+---
