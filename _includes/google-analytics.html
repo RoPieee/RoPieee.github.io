@@ -1,0 +1,10 @@
+<!-- Google tag (gtag.js) -->
+<!-- Note: I should remove this once https://github.com/jekyll/minima/pull/825 is released, which fixes GA4 compatibility -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+<script>
+ window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());
+
+ gtag('config', '{{ site.google_analytics }}');
+</script>
