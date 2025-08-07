@@ -4,4 +4,6 @@
 
 layout: home
 ---
-An easy-to-use Raspberry Pi image for network audio streaming solutions
+{% include image.html url="/assets/images/logo.png" description="RoPieee's Beautiful Logo" width="30%" %}
+
+An easy-to-use Raspberry Pi image for network audio streaming solutions.
