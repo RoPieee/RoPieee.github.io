@@ -4,7 +4,7 @@ title: Getting Started
 permalink: /gettingstarted/
 ---
 
-Getting started with RoPieee is just a matter of downloading an image, write it to a Micro SD card and insert that into a Raspberry Pi. About 15 minutes later you're ready to go!
+Getting started with RoPieee is just a matter of downloading an image, write it to a Micro SD card and insert that into a Raspberry Pi. About 15 minutes later (☕) you're ready to go!
 Downloads for RoPieee, as well as extensive documentation is available on [GitHub](https://github.com/RoPieee/RoPieee)
 
 That's also the place where you can report issues, if you run into a problem. 
