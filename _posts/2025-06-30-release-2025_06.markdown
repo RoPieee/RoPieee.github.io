@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Release 2025.06"
+date:   2025-06-30 08:45:31 +0200
+categories: stable release
+---
+
+Hi,
+
+I’m happy to announce the immediate availability of 2025.06!
+
+This release was supposed to be rather small, but it turned out ‘bigger’ than expected :grin:
+
+Most exciting part, at least for me, is the support for USB HID devices. This makes it possible to use ‘fancy’ knobs as remote controllers, but it also works for USB DAC’s that suppor the USB HID protocol. 
+Combined with the new ‘follow display’ option this makes for a cool release!
+
+The support for 2 USB DAC’s when using services other than Roon is also noteworthy. 
+It solves some issues with specific devices like the Holo Red, but it’s also handy when using more than 1 USB DAC.
+
+The rest is the usual 'stuff all over the place'.
+
+You can find the complete changelog and downloads over [here](https://github.com/RoPieee/RoPieee/blob/main/docs/CHANGELOG.md)
+
+Enjoy!
