@@ -4,3 +4,15 @@ title:  "Release 2025.05"
 date:   2025-05-19 08:45:31 +0200
 categories: stable release
 ---
+
+Hi all,
+
+I’ve just released 2025.05!
+
+Mean focus this release has been improving the audio quality on the Usbridge. Remember, that legacy device we still support? Anyways, there were some reports about ‘clicks and pops’ hearable. At first I thought I couldn’t reproduce those, but after careful listening I could. Funny how our hobby works, isn’t it?
+
+The rest are changes all over the place, including some nice performance improvements.
+
+You can find the complete changelog and downloads over [here](https://github.com/RoPieee/RoPieee/blob/main/docs/CHANGELOG.md)
+
+Enjoy!
