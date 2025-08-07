@@ -4,3 +4,13 @@ title:  "Release 2025.02"
 date:   2025-02-21 08:45:31 +0200
 categories: stable release
 ---
+
+Hi,
+
+Let’s start the weekend with a new RoPieee!
+
+As usual with ‘stuff all over the place’, but I think that the work done on Squeezelite (LMS) stands out: this has been done in close corporation with the nice folks on the LMS forum (thanks @CJS !).
+
+You can find the complete changelog and downloads over [here](https://github.com/RoPieee/RoPieee/blob/main/docs/CHANGELOG.md)
+
+Enjoy!
