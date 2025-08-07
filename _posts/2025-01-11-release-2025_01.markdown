@@ -4,3 +4,17 @@ title:  "Release 2025.01"
 date:   2025-01-11 08:45:31 +0200
 categories: stable release
 ---
+
+New Year, new RoPieee release! 💥 🍻
+
+This release has changes all over the place. Most prominent one is the work on the display, where support for Roon’s volume limits has been implemented.
+
+The other change that stands out is the ‘survive hostname change’. The ‘hostname’ was still a rather technical computer term, so that has been changed to ‘device name’. And furthermore the webpage will ‘survive’ a hostname/device name change, because it navigates to a URL that is indepedant of the hostname.
+
+For most this is trivial, but I often got questions from first-time users that run into the issue that they don’t realize they need to navigate to the `new_hostname.local` address.
+
+So, I’m pretty happy with this release; I hope you will be too :wink:
+
+You can find the complete changelog and downloads over [here](https://github.com/RoPieee/RoPieee/blob/main/docs/CHANGELOG.md)
+
+Enjoy!
