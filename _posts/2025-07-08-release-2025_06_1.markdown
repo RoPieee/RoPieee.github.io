@@ -15,6 +15,6 @@ That's now sorted out, and while fixing that we sneaked in a few other goodies:
 * update Linux kernel
 * some UI polish to the Network tab
 
-As always you can get the latest version and more information [here](https://github.com/RoPieee/RoPieee/blob/main/docs/CHANGELOG.md)
+As always you can get the downloads and more information [here](https://github.com/RoPieee/RoPieee/blob/main/docs/CHANGELOG.md)
 
 Enjoy!
