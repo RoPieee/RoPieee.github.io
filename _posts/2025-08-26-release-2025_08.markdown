@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Release 2025.08"
+date:   2025-08-26 16:16:01 +0200
+categories: stable release
+---
+
+Scheduling the RoPieee release around the holidays always presents a challenge: should it be before or after the holiday season?
+
+This release was slightly delayed due to a lack of critical issues in the previous stable version. It's a relatively "boring" release, focusing solely on widespread improvements rather than introducing new features.
+
+Perhaps the most significant development isn't solely within the RoPieee software; it's also external. I anticipate that the new website and comprehensive [GitHub project page](https://github.com/RoPieee/RoPieee) will simplify RoPieee's adoption for individuals outside the Roon ecosystem.
+
+For existing RoPieee users, this update will be available on your devices within a few hours. New users can simply download the latest image from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2025_08.md) to get started quickly.
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
