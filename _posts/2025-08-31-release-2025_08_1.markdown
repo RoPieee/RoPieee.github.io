@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Release 2025.08.1"
+date:   2025-08-31 08:16:01 +0200
+categories: stable release
+---
+
+During the 2025.08 beta cycle, we encountered an MMC failure issue on a single user's Pi 3 during boot. Despite affecting only one user, significant time was dedicated to debugging, though I couldn't reproduce it myself. The reporting user's assistance with additional testing was invaluable. 
+
+Thanks to RoPieee's defensive measures against file system issues, which were developed in response to MMC failures, the problem was not critical. A simple reboot restored normal operation. Ultimately, we decided the issue wasn't critical enough to delay the release.
+
+The problem resurfaced after the 2025.08 release, a predictable yet extremely frustrating occurrence 🙂 Further debugging revealed the culprit: a Linux kernel patch developed by the Raspberry Pi team.
+
+So this RoPieee patch release is mainly about fixing this issue. And while at it, I fixed a few other bugs as well.
+
+For existing RoPieee users, this update will be available on your devices within a few hours. New users can simply download the latest image from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2025_08_1.md) to get started quickly.
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
