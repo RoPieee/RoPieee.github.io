@@ -9,7 +9,7 @@ During the 2025.08 beta cycle, we encountered an MMC failure issue on a single u
 
 Thanks to RoPieee's defensive measures against file system issues, which were developed in response to MMC failures, the problem was not critical. A simple reboot restored normal operation. Ultimately, we decided the issue wasn't critical enough to delay the release.
 
-The problem resurfaced after the 2025.08 release, a predictable yet extremely frustrating occurrence 🙂 Further debugging resulted in a fix, so this RoPieee patch release is mainly about fixing this issue. And while at it, I fixed a few other bugs as well.
+The problem resurfaced after the 2025.08 release, a predictable yet extremely frustrating occurrence 🙂 Further debugging resulted in a solution, so this RoPieee patch release is mainly about fixing this issue. And while at it, I fixed a few other bugs as well.
 
 For existing RoPieee users, this update will be available on your devices within a few hours. New users can simply download the latest image from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2025_08_1.md) to get started quickly.
 
