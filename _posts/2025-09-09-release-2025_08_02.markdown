@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Release 2025.08.1"
+date:   2025-08-31 08:16:01 +0200
+categories: stable release
+---
+
+With 2025.08.1 Squeezelite discovery stopped functioning. After a week of digging I finally figured out it was a Linux kernel bug (very recent regression) that plagued us, so this release addresses that.
+
+It also made me rethink RoPieee’s kernel upgrade policy - let’s make it a little bit more conservative. This incident made it clear that even a stable Linux LTS release can present unexpected challenges ☺️
+
+For existing RoPieee users, this update will be available on your devices within a few hours. New users can simply download the latest image from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2025_08_2.md) to get started quickly.
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
