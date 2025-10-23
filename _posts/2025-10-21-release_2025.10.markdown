@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Release 2025.10"
+date:   2025-10-23 08:16:01 +0200
+categories: stable release
+---
+
+While this release may appear uneventful based on its changelog, with no flashy new features, I've been diligently working on significant under-the-hood refactoring. This essential work paves the way for a future feature, which I'll keep under wraps for now 🙂
+
+The most prominent feature is visible on RoPieee's web interface, which now offers multi-language support. In addition to the default English, Dutch, German, and Polish translations are currently available. And guess what's super cool? Our community made these translations, so a huge shout-out to them!
+
+This update will be automatically available to existing RoPieee users on their devices. New users can simply download the latest image from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2025_10.md) to get started quickly.
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
