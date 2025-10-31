@@ -1,14 +1,16 @@
 ---
 layout: post
-title:  "BETA Release 2025.10.1"
+title:  "Release 2025.10.1"
 date:   2025-10-29 08:16:01 +0200
-categories: beta release
+categories: stable release
 ---
 
 The 2025.10 update regrettably introduced a regression in UPnP functionality when used with DSD content. This was unexpected, as no apparent changes were made to UPnP. However, subsequent investigation identified an updated library as the underlying cause.
 
-This beta release includes a fix for this [issue](https://github.com/RoPieee/RoPieee/issues/23). If sufficient user feedback confirms the resolution, a formal release will follow as soon as possible.
+This release includes a fix for this [issue](https://github.com/RoPieee/RoPieee/issues/23).
 
-Existing RoPieee beta users will automatically receive this update.
+This update will be automatically available to existing RoPieee users on their devices. New users can simply download the latest image from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2025_10_1.md) to get started quickly.
 
-Thanks!
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
