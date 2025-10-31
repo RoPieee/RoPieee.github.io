@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Release 2025.10.1"
-date:   2025-10-29 08:16:01 +0200
+date:   2025-10-31 08:16:01 +0200
 categories: stable release
 ---
 
