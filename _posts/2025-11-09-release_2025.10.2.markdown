@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Release 2025.10.2"
+date:   2025-11-09 08:16:01 +0200
+categories: stable release
+---
+
+Unfortunately Spotify changed something on their end (again), which resulted in [failure](https://github.com/RoPieee/RoPieee/issues/26) when trying to play something. This patch release addresses that. 
+
+This update will be automatically available to existing RoPieee users on their devices. New users can simply download the latest image from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2025_10_2.md) to get started quickly.
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
