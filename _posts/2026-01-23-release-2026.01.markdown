@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Release 2026.01"
+date:   2026-01-23 08:16:01 +0200
+categories: stable release
+---
+
+I’m excited to announce our first release of 2026! It has been some time since the last one.
+
+This is a significant release, largely due to the effort involved in supporting the 5-inch variant of the official 'Display 2'. While the initial support was straightforward, a major issue was encountered with its implementation specifically on the Raspberry Pi 3.
+
+The migration to a 64-bit operating system for the Pi 3 family, a significant undertaking, was necessitated by issues encountered while implementing the 5-inch display. Previously, RoPieee ran in 32-bit mode on the Pi 3, while Pi 4 and 5 were already 64-bit. This upgrade proved beneficial, as it not only resolved the display issues, allowing us to now support the 5-inch display across all Pi variants, but also resulted in performance gains for the Pi 3.
+
+In addition to the new 'Display 2' support, this release includes updated components and resolved bugs.
+
+Existing RoPieee users will automatically receive this update on their devices. The latest image for new users can be downloaded directly from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2026_01.md).
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
