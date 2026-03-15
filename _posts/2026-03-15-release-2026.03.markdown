@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Release 2026.03"
+date:   2026-03-15 08:16:01 +0200
+categories: stable release
+---
+
+Time for another release!
+
+This release covers a variety of updates. Key among them is the addition of Snapcast support, a feature initially inspired by my interest in Music Assistant. Additionally, the release includes updated components, a new French translation, and several bug fixes.
+
+Existing RoPieee users will automatically receive this update on their devices. The latest image for new users can be downloaded directly from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2026_03.md).
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
