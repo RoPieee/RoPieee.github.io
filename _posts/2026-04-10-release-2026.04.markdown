@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Release 2026.04"
+date:   2026-04-10 08:16:01 +0200
+categories: stable release
+---
+
+Release Day!
+
+This release cycle was shorter and focused primarily on widespread updates and improvements. Functionally, the only major addition is the ability to specify an IP address for a Snapcast server. The partitioning scheme has undergone some internal changes, which will be discussed in more detail later. Finally, RoPieee did not yet offer support for a configuration where someone upgraded an Allo Usbridge with a Compute Module 4S.
+
+Existing RoPieee users will automatically receive this update on their devices. The latest image for new users can be downloaded directly from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2026_04.md).
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
