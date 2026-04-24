@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Release 2026.04.1"
+date:   2026-04-24 08:16:01 +0200
+categories: stable release
+---
+
+This patch release addresses a persistent AirPlay 2 issue that arose with buffered streams following the last release. Additionally, RoPieee now includes support for the 'L' variant of the Raspberry Pi CM5 board.
+
+Existing RoPieee users will automatically receive this update on their devices. The latest image for new users can be downloaded directly from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2026_04_1.md). You can also use the *RoPieee Network Installer*, which can be downloaded from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/NETWORK_INSTALLER.md).
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
