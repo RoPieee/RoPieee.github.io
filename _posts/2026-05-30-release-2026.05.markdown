@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Release 2026.05"
+date:   2026-05-30 08:16:01 +0200
+categories: stable release
+---
+
+RoPieee + 1
+
+As summer kicks off, a new RoPieee update has arrived.
+
+The most significant enhancement is likely the introduction of real-time status tracking for USB DACs, which now indicates if they are locked ("in use") and specifies the active application. This status information is accessible via the 'Audio' tab within the RoPieee web interface. Moreover, this advancement establishes a foundation for introducing additional features in the future.
+
+Beyond the visible enhancements, a significant internal update includes the transition to the Raspberry Pi Foundation's most recent Linux LTS release. This upgrade integrates a year of Linux kernel innovations, providing immediate advantages such as expanded compatibility for USB WiFi adapters, among other improvements.
+
+Furthermore, this release follows the tradition of bringing various components up to their most current versions.
+
+Existing RoPieee users will automatically receive this update on their devices. The latest image for new users can be downloaded directly from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2026_05.md). You can also use the **RoPieee Network Installer**, which can be downloaded from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/NETWORK_INSTALLER.md).
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
