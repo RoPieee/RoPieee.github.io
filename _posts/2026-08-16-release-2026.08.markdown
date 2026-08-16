@@ -1,0 +1,36 @@
+---
+layout: post
+title:  "Release 2026.08"
+date:   2026-05-30 08:16:01 +0200
+categories: stable release
+---
+
+Hi all,
+
+Having returned from a wonderful vacation in Sweden, I believe it is time for a release. This process took a bit longer than anticipated; although I deemed it "ready" just before the holidays, I was reluctant to risk any issues arising while I was unreachable in the Swedish countryside.
+
+In any case, this release comes packed with exciting new functionality. I am pleased to present RoPieee's 'Convenience Switching'—a feature that lets you seamlessly alternate between various supported services (excluding Songcast) without worrying about device locking. Simply pressing 'play' on a new service will automatically pause or stop whatever is currently playing.
+
+For Roon and HQPlayer it requires minor configuration:
+
+Setting this up requires a quick configuration for both services:
+* Roon: Configure ‘External source controls’ for your target zone and select the RoPieee Extension.
+* HQPlayer: Ensure remote access is enabled.
+
+That’s all there is to it—no more reboots or unexpected silence when switching between your streaming services!
+
+Additionally, after all these years, HDMI support has finally been added! Since I don’t use HDMI myself, I never quite got around to implementing it—but here it is. It’s still somewhat limited, supporting stereo output only. As I don’t own a multi-channel device, please keep that in mind… though if someone happens to send a decent multi-channel device my way, who knows 😉?
+
+Removal of features is a rare occurrence in RoPieee, but Plexamp has now been retired. Maintaining Plexamp was already challenging due to its underlying technical design, and with the Plex team essentially halting its development, further updates are no longer available. Removing it aligns directly with a core principle of RoPieee: no single component should ever impede the platform’s overall progress. While I know this may be disappointing for regular Plexamp users, there is promising work underway on a new headless Plex client that features an improved architecture. Although it remains too early to integrate into RoPieee right now, who knows what the future holds…
+
+So, go update your RoPieee, kick back, and enjoy the music!
+
+Starting with this release, I want to introduce a "theme" song for every RoPieee update! Given my fantastic trip to Sweden, what better track to kick off this new tradition than this one:
+
+[Future Islands - King of Sweden](https://www.youtube.com/watch?v=P9m9yYT2hFc)
+
+Existing RoPieee users will automatically receive this update on their devices. The latest image for new users can be downloaded directly from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2026_08.md). You can also use the **RoPieee Network Installer**, which can be downloaded from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/NETWORK_INSTALLER.md).
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
