@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Release 2026.08.1"
+date:   2026-08-19 08:16:01 +0200
+categories: stable release
+---
+
+This patch release refines the recently introduced 'Convenience Switching' feature, specifically for setups where Roon is involved.
+
+Roon doesn't only stream in its native RAAT format—it can also act as a transport for AirPlay and Squeezelite, and it can serve as a frontend for HQPlayer. In these combinations, RoPieee needs to know that Roon and the other service are actually working together; otherwise Convenience Switching would assume they're competing for the device and immediately stop the stream.
+
+To fix this, a new switch called **'Controlled by Roon'** has been added to the AirPlay, Squeezelite and HQPlayer services. Enable it whenever that service is being driven through Roon, and Convenience Switching will correctly treat them as a single, cooperating source instead of stopping playback.
+
+Next to this, a small improvement has been made to mDNS discovery on RoPieee Spinner.
+
+Existing RoPieee users will automatically receive this update on their devices. The latest image for new users can be downloaded directly from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2026_08_1.md). You can also use the *RoPieee Network Installer*, which can be downloaded from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/NETWORK_INSTALLER.md).
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
