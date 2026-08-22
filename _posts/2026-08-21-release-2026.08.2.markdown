@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Release 2026.08.2"
+date:   2026-08-21 08:16:01 +0200
+categories: stable release
+---
+
+This patch release fixes two issues found in Convenience Switching, and adds a way to turn the whole feature off.
+
+First, the fixes: switching away from Squeezelite could sometimes leave the audio device locked, blocking whichever service you switched to from actually starting. And switching away from RoPieee Spinner could leave it stuck repeatedly reconnecting to the Sendspin server before settling down. Both are now fixed — services hand the audio device off to each other cleanly.
+
+We also added a **'Convenience Switching'** on/off switch. If you run multiple services on separate DACs and don't want them interrupting each other, you can now simply turn the whole feature off.
+
+Existing RoPieee users will automatically receive this update on their devices. The latest image for new users can be downloaded directly from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2026_08_2.md). You can also use the *RoPieee Network Installer*, which can be downloaded from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/NETWORK_INSTALLER.md).
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
