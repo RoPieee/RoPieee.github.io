@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Release 2026.08.3"
+date:   2026-09-01 08:16:01 +0200
+categories: stable release
+---
+
+This patch release fixes an issue where Roon Bridge could fail to start following the most recent Roon Bridge update.
+
+Existing RoPieee users will automatically receive this update on their devices. The latest image for new users can be downloaded directly from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/releases/2026_08_3.md). You can also use the *RoPieee Network Installer*, which can be downloaded from [here](https://github.com/RoPieee/RoPieee/blob/main/docs/NETWORK_INSTALLER.md).
+
+For the changelog, images, and documentation, visit [RoPieee's GitHub page](https://github.com/RoPieee/RoPieee).
+
+Enjoy!
