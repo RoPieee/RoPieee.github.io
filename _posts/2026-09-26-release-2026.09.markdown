@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Release 2026.09: RoPieee is now Verox"
+date:   2026-09-26 08:16:01 +0200
+categories: stable release
+---
+
+Hi all,
+
+This is a special one: after almost ten years, RoPieee has a new name. Release 2026.09 is the first release of **Verox**.
+
+Same project, same person behind it, and nothing for you to do: existing RoPieee users will automatically receive this update, with all their settings intact.
+
+This is also the last post on ropieee.org. From now on you'll find all news, releases and documentation on the new websites, so read the full announcement of this release on [verox.audio](https://verox.audio/news/release-2026.09/), and come say hi in the new community at [community.verox.audio](https://community.verox.audio).
+
+Thanks for ten wonderful years of RoPieee. See you on the other side!
+
+Enjoy the music!
